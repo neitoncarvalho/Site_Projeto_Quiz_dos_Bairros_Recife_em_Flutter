@@ -22,16 +22,16 @@ w\:* {behavior:url(#default#VML);}
  <o:DocumentProperties>
   <o:Author>Neiton Carvalho</o:Author>
   <o:LastAuthor>Neiton Carvalho</o:LastAuthor>
-  <o:Revision>70</o:Revision>
-  <o:TotalTime>382</o:TotalTime>
+  <o:Revision>36</o:Revision>
+  <o:TotalTime>211</o:TotalTime>
   <o:Created>2020-09-05T20:35:00Z</o:Created>
-  <o:LastSaved>2020-09-06T02:33:00Z</o:LastSaved>
-  <o:Pages>27</o:Pages>
-  <o:Words>4736</o:Words>
-  <o:Characters>25579</o:Characters>
-  <o:Lines>213</o:Lines>
-  <o:Paragraphs>60</o:Paragraphs>
-  <o:CharactersWithSpaces>30255</o:CharactersWithSpaces>
+  <o:LastSaved>2020-09-05T23:42:00Z</o:LastSaved>
+  <o:Pages>20</o:Pages>
+  <o:Words>4063</o:Words>
+  <o:Characters>21941</o:Characters>
+  <o:Lines>182</o:Lines>
+  <o:Paragraphs>51</o:Paragraphs>
+  <o:CharactersWithSpaces>25953</o:CharactersWithSpaces>
   <o:Version>12.00</o:Version>
  </o:DocumentProperties>
 </xml><![endif]-->
@@ -39,7 +39,7 @@ w\:* {behavior:url(#default#VML);}
 <link rel=colorSchemeMapping href="index_arquivos/colorschememapping.xml">
 <!--[if gte mso 9]><xml>
  <w:WordDocument>
-  <w:Zoom>30</w:Zoom>
+  <w:Zoom>60</w:Zoom>
   <w:TrackMoves>false</w:TrackMoves>
   <w:TrackFormatting/>
   <w:HyphenationZone>21</w:HyphenationZone>
@@ -342,10 +342,11 @@ w\:* {behavior:url(#default#VML);}
  @font-face
 	{font-family:"Cambria Math";
 	panose-1:2 4 5 3 5 4 6 3 2 4;
-	mso-font-charset:0;
+	mso-font-charset:1;
 	mso-generic-font-family:roman;
+	mso-font-format:other;
 	mso-font-pitch:variable;
-	mso-font-signature:-536869121 1107305727 33554432 0 415 0;}
+	mso-font-signature:0 0 0 0 0 0;}
 @font-face
 	{font-family:Calibri;
 	panose-1:2 15 5 2 2 2 4 3 2 4;
@@ -367,22 +368,6 @@ w\:* {behavior:url(#default#VML);}
 	mso-generic-font-family:modern;
 	mso-font-pitch:fixed;
 	mso-font-signature:-536869121 64767 1 0 415 0;}
-@font-face
-	{font-family:"Adobe Gothic Std B";
-	panose-1:0 0 0 0 0 0 0 0 0 0;
-	mso-font-charset:128;
-	mso-generic-font-family:swiss;
-	mso-font-format:other;
-	mso-font-pitch:variable;
-	mso-font-signature:515 701967376 16 0 2752517 0;}
-@font-face
-	{font-family:"\@Adobe Gothic Std B";
-	panose-1:0 0 0 0 0 0 0 0 0 0;
-	mso-font-charset:128;
-	mso-generic-font-family:swiss;
-	mso-font-format:other;
-	mso-font-pitch:variable;
-	mso-font-signature:515 701967376 16 0 2752517 0;}
  /* Style Definitions */
  p.MsoNormal, li.MsoNormal, div.MsoNormal
 	{mso-style-unhide:no;
@@ -528,96 +513,6 @@ div.Section1
 <div class=Section1>
 
 <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-text-align:center;line-height:normal'><!--[if gte vml 1]><v:rect id="_x0000_s1034"
- style='position:absolute;left:0;text-align:left;margin-left:-6.2pt;
- margin-top:19.9pt;width:1565.4pt;height:191.15pt;z-index:-15' fillcolor="white [3201]"
- strokecolor="#92cddc [1944]" strokeweight="1pt">
- <v:fill color2="#b6dde8 [1304]" focusposition="1" focussize="" focus="100%"
-  type="gradient"/>
- <v:shadow on="t" type="perspective" color="#205867 [1608]" opacity=".5"
-  offset="1pt" offset2="-3pt"/>
- <v:textbox>
-  <![if !mso]>
-  <table cellpadding=0 cellspacing=0 width="100%">
-   <tr>
-    <td><![endif]>
-    <div>
-    <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:
-    0cm;margin-left:177.0pt;margin-bottom:.0001pt;text-indent:35.4pt;
-    line-height:normal'><span style='font-size:36.0pt;font-family:"Adobe Gothic Std B","sans-serif";
-    mso-bidi-font-family:Arial'>Projeto Quiz dos Bairros do Recife<o:p></o:p></span></p>
-    <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:
-    0cm;margin-left:177.0pt;margin-bottom:.0001pt;text-indent:35.4pt;
-    line-height:normal'><span style='font-size:22.0pt;font-family:"Arial","sans-serif"'>Mestrado
-    em Informática Aplicada<o:p></o:p></span></p>
-    <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:
-    0cm;margin-left:177.0pt;margin-bottom:.0001pt;text-indent:35.4pt;
-    line-height:normal'><span style='font-size:22.0pt;font-family:"Arial","sans-serif"'>Disciplina:
-    Fundamentos de Programação Aplicada<o:p></o:p></span></p>
-    <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:
-    0cm;margin-left:177.0pt;margin-bottom:.0001pt;text-indent:35.4pt;
-    line-height:normal'><span style='font-size:22.0pt;font-family:"Arial","sans-serif"'>Discente:
-    Neiton Carvalho da Silva<o:p></o:p></span></p>
-    <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:
-    0cm;margin-left:177.0pt;margin-bottom:.0001pt;text-indent:35.4pt;
-    line-height:normal'><span style='font-size:22.0pt;font-family:"Arial","sans-serif"'>Profº
-    da disciplina: Gilberto Amado De Azevedo Cysneiros Filho<o:p></o:p></span></p>
-    <p class=MsoNormal><o:p>&nbsp;</o:p></p>
-    </div>
-    <![if !mso]></td>
-   </tr>
-  </table>
-  <![endif]></v:textbox>
-</v:rect><![endif]--><![if !vml]><span style='mso-ignore:vglayout;position:
-absolute;z-index:-15;left:0px;margin-left:-9px;margin-top:25px;width:2093px;
-height:263px'><img width=2093 height=263 src="index_arquivos/image052.gif"
-alt="Caixa de texto: Projeto Quiz dos Bairros do Recife&#13;&#10;Mestrado em Informática Aplicada&#13;&#10;Disciplina: Fundamentos de Programação Aplicada&#13;&#10;Discente: Neiton Carvalho da Silva&#13;&#10;Profº da disciplina: Gilberto Amado De Azevedo Cysneiros Filho&#13;&#10;&#13;&#10;"
-v:shapes="_x0000_s1034"></span><![endif]><span style='font-size:20.0pt;
-font-family:"Arial","sans-serif"'><o:p></o:p></span></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-text-align:center;line-height:normal'><span style='font-size:20.0pt;font-family:
-"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-text-align:center;line-height:normal'><!--[if gte vml 1]><v:shapetype id="_x0000_t75"
- coordsize="21600,21600" o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe"
- filled="f" stroked="f">
- <v:stroke joinstyle="miter"/>
- <v:formulas>
-  <v:f eqn="if lineDrawn pixelLineWidth 0"/>
-  <v:f eqn="sum @0 1 0"/>
-  <v:f eqn="sum 0 0 @1"/>
-  <v:f eqn="prod @2 1 2"/>
-  <v:f eqn="prod @3 21600 pixelWidth"/>
-  <v:f eqn="prod @3 21600 pixelHeight"/>
-  <v:f eqn="sum @0 0 1"/>
-  <v:f eqn="prod @6 1 2"/>
-  <v:f eqn="prod @7 21600 pixelWidth"/>
-  <v:f eqn="sum @8 21600 0"/>
-  <v:f eqn="prod @7 21600 pixelHeight"/>
-  <v:f eqn="sum @10 21600 0"/>
- </v:formulas>
- <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
- <o:lock v:ext="edit" aspectratio="t"/>
-</v:shapetype><v:shape id="Imagem_x0020_35" o:spid="_x0000_s1048" type="#_x0000_t75"
- alt="Universidade Federal Rural de Pernambuco – Wikipédia, a enciclopédia livre"
- style='position:absolute;left:0;text-align:left;margin-left:1.5pt;
- margin-top:8.65pt;width:107.4pt;height:2in;z-index:-2;visibility:visible;
- mso-wrap-style:square;mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;
- mso-wrap-distance-right:9pt;mso-wrap-distance-bottom:0;
- mso-position-horizontal:absolute;mso-position-horizontal-relative:text;
- mso-position-vertical:absolute;mso-position-vertical-relative:text'
- wrapcoords="11162 0 5430 900 2413 2025 1508 6075 1810 15525 0 18000 -302 18675 603 20925 9955 21375 11765 21375 19006 21375 21721 20475 21721 18000 20514 15975 19307 14400 19609 10800 20816 7200 20212 2025 18402 1125 12670 0 11162 0">
- <v:imagedata src="index_arquivos/image004.png" o:title="Universidade Federal Rural de Pernambuco – Wikipédia, a enciclopédia livre"/>
- <w:wrap type="tight"/>
-</v:shape><![endif]--><![if !vml]><img width=143 height=192
-src="index_arquivos/image002.gif" align=left hspace=12
-alt="Universidade Federal Rural de Pernambuco – Wikipédia, a enciclopédia livre"
-v:shapes="Imagem_x0020_35"><![endif]><span style='font-size:36.0pt;font-family:
-"Adobe Gothic Std B","sans-serif";mso-bidi-font-family:Arial'><o:p></o:p></span></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
 text-align:center;line-height:normal'><span style='font-size:20.0pt;font-family:
 "Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
 
@@ -625,48 +520,13 @@ text-align:center;line-height:normal'><span style='font-size:20.0pt;font-family:
 text-align:center;line-height:normal'><span style='font-size:20.0pt;font-family:
 "Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
 
-<p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-text-align:center;line-height:normal'><span style='font-size:20.0pt;font-family:
-"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+normal'><span style='font-size:20.0pt;font-family:"Arial","sans-serif"'>Projeto
+Quiz dos Bairros do Recife<o:p></o:p></span></p>
 
-<p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-text-align:center;line-height:normal'><span style='font-size:20.0pt;font-family:
-"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-text-align:center;line-height:normal'><span style='font-size:20.0pt;font-family:
-"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-text-align:center;line-height:normal'><span style='font-size:20.0pt;font-family:
-"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-text-align:center;line-height:normal'><span style='font-size:20.0pt;font-family:
-"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-text-align:center;line-height:normal'><span style='font-size:20.0pt;font-family:
-"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-text-align:center;line-height:normal'><span style='font-size:20.0pt;font-family:
-"Arial","sans-serif";mso-fareast-language:PT-BR;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
- id="Imagem_x0020_38" o:spid="_x0000_i1038" type="#_x0000_t75" style='width:1.5pt;
- height:33.75pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="index_arquivos/image006.png" o:title="grafico_telas_projeto"/>
-</v:shape><![endif]--><![if !vml]><img width=2 height=45
-src="index_arquivos/image008.gif" v:shapes="Imagem_x0020_38"><![endif]><!--[if gte vml 1]><v:shape
- id="_x0000_i1037" type="#_x0000_t75" alt="grafico_telas_projeto.png" style='width:1584.75pt;
- height:925.5pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="index_arquivos/image010.png" o:title="grafico_telas_projeto"/>
-</v:shape><![endif]--><![if !vml]><img width=2113 height=1234
-src="index_arquivos/image012.gif" alt="grafico_telas_projeto.png" v:shapes="_x0000_i1037"><![endif]></span><span
-style='font-size:20.0pt;font-family:"Arial","sans-serif"'><o:p></o:p></span></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-text-align:center;line-height:normal'><span style='font-size:20.0pt;font-family:
-"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+normal'><span style='font-size:20.0pt;font-family:"Arial","sans-serif"'>Discente:
+Neiton Carvalho da Silva<o:p></o:p></span></p>
 
 <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
 text-align:center;line-height:normal'><span style='font-size:20.0pt;font-family:
@@ -694,59 +554,6 @@ text-align:center;line-height:normal'><span style='font-size:20.0pt;font-family:
 
 <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
 text-align:center;line-height:normal'><span style='font-size:20.0pt;font-family:
-"Arial","sans-serif"'>O projeto já está no Google Play Console, mas ainda não
-consta na play store pois está aguardando realizarem a publicação. Segue a
-evidência do projeto logo em seguida:<o:p></o:p></span></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-text-align:center;line-height:normal'><span style='font-size:20.0pt;font-family:
-"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-text-align:center;line-height:normal'><span style='font-size:20.0pt;font-family:
-"Arial","sans-serif";mso-fareast-language:PT-BR;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
- id="Imagem_x0020_5" o:spid="_x0000_i1036" type="#_x0000_t75" style='width:1136.25pt;
- height:315pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="index_arquivos/image047.png" o:title=""/>
-</v:shape><![endif]--><![if !vml]><img width=1515 height=420
-src="index_arquivos/image014.jpg" v:shapes="Imagem_x0020_5"><![endif]></span><span
-style='font-size:20.0pt;font-family:"Arial","sans-serif"'><o:p></o:p></span></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-text-align:center;line-height:normal'><span style='font-size:20.0pt;font-family:
-"Arial","sans-serif"'>Observação: Caso ainda não tenha sito autorizado a apk
-está disponível no GitHub também com todo o projeto caso alguém queira testar.<o:p></o:p></span></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-text-align:center;line-height:normal'><span style='font-size:20.0pt;font-family:
-"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal'><span style='font-size:20.0pt;font-family:"Arial","sans-serif"'>Segue o
-repositório no GITHUB do projeto completo mas a apk também para poder utilizar
-caso tenha dificuldade para encontrar na loja do play store:<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal'><span style='font-size:20.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal'><span style='font-size:20.0pt;font-family:"Arial","sans-serif"'>Link: <a
-href="https://github.com/neitoncarvalho/flutter_neiton">https://github.com/neitoncarvalho/flutter_neiton</a><o:p></o:p></span></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-text-align:center;line-height:normal'><span style='font-size:20.0pt;font-family:
-"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-text-align:center;line-height:normal'><span style='font-size:20.0pt;font-family:
-"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-text-align:center;line-height:normal'><span style='font-size:20.0pt;font-family:
-"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-text-align:center;line-height:normal'><span style='font-size:20.0pt;font-family:
 "Arial","sans-serif"'>Dados do quiz dos referente as perguntas referente as
 histórias dos bairros do Recife na nuvem por meio do Google Sheet.<o:p></o:p></span></p>
 
@@ -755,17 +562,37 @@ normal'><span style='font-size:20.0pt;font-family:"Arial","sans-serif"'><o:p>&nb
 
 <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
 text-align:center;line-height:normal'><span style='font-size:20.0pt;font-family:
-"Arial","sans-serif";mso-fareast-language:PT-BR;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
- id="Imagem_x0020_19" o:spid="_x0000_i1035" type="#_x0000_t75" style='width:1303.5pt;
- height:621pt;visibility:visible;mso-wrap-style:square' o:bordertopcolor="black"
- o:borderleftcolor="black" o:borderbottomcolor="black" o:borderrightcolor="black">
- <v:imagedata src="index_arquivos/image001.png" o:title=""/>
+"Arial","sans-serif";mso-fareast-language:PT-BR;mso-no-proof:yes'><!--[if gte vml 1]><v:shapetype
+ id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"
+ path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
+ <v:stroke joinstyle="miter"/>
+ <v:formulas>
+  <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+  <v:f eqn="sum @0 1 0"/>
+  <v:f eqn="sum 0 0 @1"/>
+  <v:f eqn="prod @2 1 2"/>
+  <v:f eqn="prod @3 21600 pixelWidth"/>
+  <v:f eqn="prod @3 21600 pixelHeight"/>
+  <v:f eqn="sum @0 0 1"/>
+  <v:f eqn="prod @6 1 2"/>
+  <v:f eqn="prod @7 21600 pixelWidth"/>
+  <v:f eqn="sum @8 21600 0"/>
+  <v:f eqn="prod @7 21600 pixelHeight"/>
+  <v:f eqn="sum @10 21600 0"/>
+ </v:formulas>
+ <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+ <o:lock v:ext="edit" aspectratio="t"/>
+</v:shapetype><v:shape id="Imagem_x0020_19" o:spid="_x0000_i1036" type="#_x0000_t75"
+ style='width:1303.5pt;height:621pt;visibility:visible;mso-wrap-style:square'
+ o:bordertopcolor="black" o:borderleftcolor="black" o:borderbottomcolor="black"
+ o:borderrightcolor="black">
+ <v:imagedata src="index_arquivos/image005.png" o:title=""/>
  <w:bordertop type="single" width="6"/>
  <w:borderleft type="single" width="6"/>
  <w:borderbottom type="single" width="6"/>
  <w:borderright type="single" width="6"/>
-</v:shape><![endif]--><![if !vml]><img border=0 width=1740 height=830
-src="index_arquivos/image016.jpg" v:shapes="Imagem_x0020_19"><![endif]></span><span
+</v:shape><![endif]--><![if !vml]><img width=1740 height=830
+src="index_arquivos/image004.jpg" v:shapes="Imagem_x0020_19"><![endif]></span><span
 style='font-size:20.0pt;font-family:"Arial","sans-serif"'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
@@ -801,16 +628,16 @@ normal'><span style='font-size:20.0pt;font-family:"Arial","sans-serif"'><o:p>&nb
 <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
 text-align:center;line-height:normal'><span style='font-size:20.0pt;font-family:
 "Arial","sans-serif";mso-fareast-language:PT-BR;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
- id="Imagem_x0020_22" o:spid="_x0000_i1034" type="#_x0000_t75" style='width:1410.75pt;
+ id="Imagem_x0020_22" o:spid="_x0000_i1035" type="#_x0000_t75" style='width:1410.75pt;
  height:372pt;visibility:visible;mso-wrap-style:square' o:bordertopcolor="black"
  o:borderleftcolor="black" o:borderbottomcolor="black" o:borderrightcolor="black">
- <v:imagedata src="index_arquivos/image003.png" o:title=""/>
+ <v:imagedata src="index_arquivos/image009.png" o:title=""/>
  <w:bordertop type="single" width="6"/>
  <w:borderleft type="single" width="6"/>
  <w:borderbottom type="single" width="6"/>
  <w:borderright type="single" width="6"/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=1883 height=498
-src="index_arquivos/image018.jpg" v:shapes="Imagem_x0020_22"><![endif]></span><span
+src="index_arquivos/image013.jpg" v:shapes="Imagem_x0020_22"><![endif]></span><span
 style='font-size:20.0pt;font-family:"Arial","sans-serif"'><o:p></o:p></span></p>
 
 <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -832,16 +659,16 @@ text-align:center;line-height:normal'><span style='font-size:20.0pt;font-family:
 <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
 text-align:center;line-height:normal'><span style='font-size:20.0pt;font-family:
 "Arial","sans-serif";mso-fareast-language:PT-BR;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
- id="Imagem_x0020_23" o:spid="_x0000_i1033" type="#_x0000_t75" style='width:1385.25pt;
+ id="Imagem_x0020_23" o:spid="_x0000_i1034" type="#_x0000_t75" style='width:1385.25pt;
  height:778.5pt;visibility:visible;mso-wrap-style:square' o:bordertopcolor="black"
  o:borderleftcolor="black" o:borderbottomcolor="black" o:borderrightcolor="black">
- <v:imagedata src="index_arquivos/image005.png" o:title=""/>
+ <v:imagedata src="index_arquivos/image014.png" o:title=""/>
  <w:bordertop type="single" width="6"/>
  <w:borderleft type="single" width="6"/>
  <w:borderbottom type="single" width="6"/>
  <w:borderright type="single" width="6"/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=1849 height=1040
-src="index_arquivos/image020.jpg" v:shapes="Imagem_x0020_23"><![endif]></span><span
+src="index_arquivos/image015.jpg" v:shapes="Imagem_x0020_23"><![endif]></span><span
 style='font-size:20.0pt;font-family:"Arial","sans-serif"'><o:p></o:p></span></p>
 
 <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -859,16 +686,16 @@ text-align:center;line-height:normal'><span style='font-size:20.0pt;font-family:
 <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
 text-align:center;line-height:normal'><span style='font-size:20.0pt;font-family:
 "Arial","sans-serif";mso-fareast-language:PT-BR;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
- id="Imagem_x0020_26" o:spid="_x0000_i1032" type="#_x0000_t75" style='width:1322.25pt;
+ id="Imagem_x0020_26" o:spid="_x0000_i1033" type="#_x0000_t75" style='width:1322.25pt;
  height:477pt;visibility:visible;mso-wrap-style:square' o:bordertopcolor="black"
  o:borderleftcolor="black" o:borderbottomcolor="black" o:borderrightcolor="black">
- <v:imagedata src="index_arquivos/image007.png" o:title=""/>
+ <v:imagedata src="index_arquivos/image018.png" o:title=""/>
  <w:bordertop type="single" width="6"/>
  <w:borderleft type="single" width="6"/>
  <w:borderbottom type="single" width="6"/>
  <w:borderright type="single" width="6"/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=1765 height=638
-src="index_arquivos/image022.jpg" v:shapes="Imagem_x0020_26"><![endif]></span><span
+src="index_arquivos/image016.jpg" v:shapes="Imagem_x0020_26"><![endif]></span><span
 style='font-size:20.0pt;font-family:"Arial","sans-serif"'><o:p></o:p></span></p>
 
 <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -882,16 +709,16 @@ text-align:center;line-height:normal'><span style='font-size:20.0pt;font-family:
 <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
 text-align:center;line-height:normal'><span style='font-size:20.0pt;font-family:
 "Arial","sans-serif";mso-fareast-language:PT-BR;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
- id="Imagem_x0020_28" o:spid="_x0000_i1031" type="#_x0000_t75" style='width:883.5pt;
+ id="Imagem_x0020_28" o:spid="_x0000_i1032" type="#_x0000_t75" style='width:883.5pt;
  height:636.75pt;visibility:visible;mso-wrap-style:square' o:bordertopcolor="black"
  o:borderleftcolor="black" o:borderbottomcolor="black" o:borderrightcolor="black">
- <v:imagedata src="index_arquivos/image009.png" o:title=""/>
+ <v:imagedata src="index_arquivos/image025.png" o:title=""/>
  <w:bordertop type="single" width="6"/>
  <w:borderleft type="single" width="6"/>
  <w:borderbottom type="single" width="6"/>
  <w:borderright type="single" width="6"/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=1180 height=851
-src="index_arquivos/image024.jpg" v:shapes="Imagem_x0020_28"><![endif]></span><span
+src="index_arquivos/image020.jpg" v:shapes="Imagem_x0020_28"><![endif]></span><span
 style='font-size:20.0pt;font-family:"Arial","sans-serif"'><o:p></o:p></span></p>
 
 <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -911,16 +738,16 @@ text-align:center;line-height:normal'><span style='font-size:20.0pt;font-family:
 <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
 text-align:center;line-height:normal'><span style='font-size:20.0pt;font-family:
 "Arial","sans-serif";mso-fareast-language:PT-BR;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
- id="Imagem_x0020_29" o:spid="_x0000_i1030" type="#_x0000_t75" style='width:1128.75pt;
+ id="Imagem_x0020_29" o:spid="_x0000_i1031" type="#_x0000_t75" style='width:1128.75pt;
  height:360.75pt;visibility:visible;mso-wrap-style:square' o:bordertopcolor="black"
  o:borderleftcolor="black" o:borderbottomcolor="black" o:borderrightcolor="black">
- <v:imagedata src="index_arquivos/image011.png" o:title=""/>
+ <v:imagedata src="index_arquivos/image032.png" o:title=""/>
  <w:bordertop type="single" width="6"/>
  <w:borderleft type="single" width="6"/>
  <w:borderbottom type="single" width="6"/>
  <w:borderright type="single" width="6"/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=1507 height=483
-src="index_arquivos/image026.jpg" v:shapes="Imagem_x0020_29"><![endif]></span><span
+src="index_arquivos/image022.jpg" v:shapes="Imagem_x0020_29"><![endif]></span><span
 style='font-size:20.0pt;font-family:"Arial","sans-serif"'><o:p></o:p></span></p>
 
 <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -942,662 +769,70 @@ text-align:center;line-height:normal'><span style='font-size:20.0pt;font-family:
 
 <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
 text-align:center;line-height:normal'><span style='font-size:20.0pt;font-family:
-"Arial","sans-serif"'>Como neste projeto estou gerando o código para o android
-apenas: <o:p></o:p></span></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-text-align:center;line-height:normal'><span style='font-size:20.0pt;font-family:
-"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-text-align:center;line-height:normal'><span style='font-size:20.0pt;font-family:
-"Arial","sans-serif"'>Precisa seguir as seguintes etapas, que são:<o:p></o:p></span></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-text-align:center;line-height:normal'><span style='font-size:20.0pt;font-family:
-"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-text-align:center;line-height:normal'><span style='font-size:20.0pt;font-family:
-"Arial","sans-serif"'>Para a preparação do Release que pretende enviar para o
-Play Store deve seguir a documentação oficial do Flutter no seguinte link:<o:p></o:p></span></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-text-align:center;line-height:normal'><span style='font-size:20.0pt;font-family:
-"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-text-align:center;line-height:normal'><span style='font-size:20.0pt;font-family:
-"Arial","sans-serif"'><a href="https://flutter.dev/docs/deployment/android">https://flutter.dev/docs/deployment/android</a><o:p></o:p></span></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-text-align:center;line-height:normal'><span style='font-size:20.0pt;font-family:
-"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-text-align:center;line-height:normal'><span style='font-size:20.0pt;font-family:
-"Arial","sans-serif"'>Mas mesmo assim vou detalhar o máximo no projeto:<o:p></o:p></span></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-text-align:center;line-height:normal'><span style='font-size:20.0pt;font-family:
-"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-text-align:center;line-height:normal'><span style='font-size:20.0pt;font-family:
-"Arial","sans-serif";mso-fareast-language:PT-BR;mso-no-proof:yes'><o:p>&nbsp;</o:p></span></p>
-
-<div style='mso-element:para-border-div;border:solid windowtext 1.0pt;
-mso-border-alt:solid windowtext .5pt;padding:1.0pt 4.0pt 1.0pt 4.0pt'>
-
-<p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-text-align:center;line-height:normal;border:none;mso-border-alt:solid windowtext .5pt;
-padding:0cm;mso-padding-alt:1.0pt 4.0pt 1.0pt 4.0pt'><!--[if gte vml 1]><v:shape
- id="Imagem_x0020_32" o:spid="_x0000_s1047" type="#_x0000_t75" style='position:absolute;
- left:0;text-align:left;margin-left:59.85pt;margin-top:2.75pt;width:739.5pt;
- height:334.2pt;z-index:-3;visibility:visible;mso-wrap-style:square;
- mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;
- mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;
- mso-position-horizontal-relative:text;mso-position-vertical:absolute;
- mso-position-vertical-relative:text' wrapcoords="-44 -97 -44 21716 21644 21716 21644 -97 -44 -97"
- stroked="t" strokecolor="windowText">
- <v:stroke opacity="64764f"/>
- <v:imagedata src="index_arquivos/image013.png" o:title=""/>
- <w:wrap type="tight"/>
-</v:shape><![endif]--><![if !vml]><img width=988 height=447
-src="index_arquivos/image028.gif" align=left hspace=12 v:shapes="Imagem_x0020_32"><![endif]><span
-style='font-size:20.0pt;font-family:"Arial","sans-serif";mso-fareast-language:
-PT-BR;mso-no-proof:yes'>No arquivo build.gradle é onde deve fazer toda a
-configuração conforme o link (</span><span style='font-size:20.0pt;font-family:
-"Arial","sans-serif"'><a href="https://flutter.dev/docs/deployment/android">https://flutter.dev/docs/deployment/android</a>)
-e também gerar uma chave onde será criado um arquivo key.jks que lhe dará autorização
-para criar o release.apk sem problemas e esta chave também tem a orientação no
-mesmo link.<o:p></o:p></span></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-text-align:center;line-height:normal;border:none;mso-border-alt:solid windowtext .5pt;
-padding:0cm;mso-padding-alt:1.0pt 4.0pt 1.0pt 4.0pt'><span style='font-size:
-20.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-text-align:center;line-height:normal;border:none;mso-border-alt:solid windowtext .5pt;
-padding:0cm;mso-padding-alt:1.0pt 4.0pt 1.0pt 4.0pt'><span style='font-size:
-20.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-text-align:center;line-height:normal;border:none;mso-border-alt:solid windowtext .5pt;
-padding:0cm;mso-padding-alt:1.0pt 4.0pt 1.0pt 4.0pt'><span style='font-size:
-20.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-text-align:center;line-height:normal;border:none;mso-border-alt:solid windowtext .5pt;
-padding:0cm;mso-padding-alt:1.0pt 4.0pt 1.0pt 4.0pt'><span style='font-size:
-20.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-text-align:center;line-height:normal;border:none;mso-border-alt:solid windowtext .5pt;
-padding:0cm;mso-padding-alt:1.0pt 4.0pt 1.0pt 4.0pt'><span style='font-size:
-20.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-text-align:center;line-height:normal;border:none;mso-border-alt:solid windowtext .5pt;
-padding:0cm;mso-padding-alt:1.0pt 4.0pt 1.0pt 4.0pt'><span style='font-size:
-20.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-text-align:center;line-height:normal;border:none;mso-border-alt:solid windowtext .5pt;
-padding:0cm;mso-padding-alt:1.0pt 4.0pt 1.0pt 4.0pt'><span style='font-size:
-20.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-text-align:center;line-height:normal;border:none;mso-border-alt:solid windowtext .5pt;
-padding:0cm;mso-padding-alt:1.0pt 4.0pt 1.0pt 4.0pt'><span style='font-size:
-20.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-text-align:center;line-height:normal;border:none;mso-border-alt:solid windowtext .5pt;
-padding:0cm;mso-padding-alt:1.0pt 4.0pt 1.0pt 4.0pt'><span style='font-size:
-20.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-text-align:center;line-height:normal;border:none;mso-border-alt:solid windowtext .5pt;
-padding:0cm;mso-padding-alt:1.0pt 4.0pt 1.0pt 4.0pt'><span style='font-size:
-20.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-text-align:center;line-height:normal;border:none;mso-border-alt:solid windowtext .5pt;
-padding:0cm;mso-padding-alt:1.0pt 4.0pt 1.0pt 4.0pt'><span style='font-size:
-20.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-text-align:center;line-height:normal;border:none;mso-border-alt:solid windowtext .5pt;
-padding:0cm;mso-padding-alt:1.0pt 4.0pt 1.0pt 4.0pt'><span style='font-size:
-20.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-text-align:center;line-height:normal;border:none;mso-border-alt:solid windowtext .5pt;
-padding:0cm;mso-padding-alt:1.0pt 4.0pt 1.0pt 4.0pt'><span style='font-size:
-20.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
-
-</div>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal'><span style='font-size:20.0pt;font-family:"Arial","sans-serif";
-mso-fareast-language:PT-BR;mso-no-proof:yes'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-text-align:center;line-height:normal'><span style='font-size:20.0pt;font-family:
-"Arial","sans-serif";mso-fareast-language:PT-BR;mso-no-proof:yes'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-text-align:center;line-height:normal'><span style='font-size:20.0pt;font-family:
-"Arial","sans-serif";mso-fareast-language:PT-BR;mso-no-proof:yes'><o:p>&nbsp;</o:p></span></p>
-
-<div style='mso-element:para-border-div;border:solid windowtext 1.0pt;
-mso-border-alt:solid windowtext .5pt;padding:1.0pt 4.0pt 1.0pt 4.0pt'>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;border:none;mso-border-alt:solid windowtext .5pt;padding:0cm;mso-padding-alt:
-1.0pt 4.0pt 1.0pt 4.0pt'><span style='font-size:20.0pt;font-family:"Arial","sans-serif";
-mso-fareast-language:PT-BR;mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Imagem_x0020_33"
- o:spid="_x0000_i1029" type="#_x0000_t75" style='width:323.25pt;height:48.75pt;
- visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="index_arquivos/image015.png" o:title=""/>
-</v:shape><![endif]--><![if !vml]><img border=0 width=431 height=65
-src="index_arquivos/image030.jpg" v:shapes="Imagem_x0020_33"><![endif]>Código o
-Build.gradle que é teve como resultado final conforme seguinte link: </span><span
-style='font-size:20.0pt;font-family:"Arial","sans-serif"'><a
-href="https://flutter.dev/docs/deployment/android">https://flutter.dev/docs/deployment/android</a></span><span
-style='font-size:20.0pt;font-family:"Arial","sans-serif";mso-fareast-language:
-PT-BR;mso-no-proof:yes'><o:p></o:p></span></p>
-
-</div>
-
-<p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-text-align:center;line-height:normal'><span style='font-size:20.0pt;font-family:
-"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
-background:white'><b><span style='font-size:14.0pt;font-family:Consolas;
-mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Courier New";
-color:#000043;mso-fareast-language:PT-BR'>def </span></b><span
-style='font-size:14.0pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Courier New";color:black;mso-fareast-language:PT-BR'>localProperties
-= </span><b><span style='font-size:14.0pt;font-family:Consolas;mso-fareast-font-family:
-"Times New Roman";mso-bidi-font-family:"Courier New";color:#000043;mso-fareast-language:
-PT-BR'>new </span></b><span style='font-size:14.0pt;font-family:Consolas;
-mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Courier New";
-color:black;mso-fareast-language:PT-BR'>Properties()<br>
-</span><b><span style='font-size:14.0pt;font-family:Consolas;mso-fareast-font-family:
-"Times New Roman";mso-bidi-font-family:"Courier New";color:#000043;mso-fareast-language:
-PT-BR'>def </span></b><span style='font-size:14.0pt;font-family:Consolas;
-mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Courier New";
-color:black;mso-fareast-language:PT-BR'>localPropertiesFile = rootProject.file(</span><b><span
-style='font-size:14.0pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Courier New";color:green;mso-fareast-language:PT-BR'>'local.properties'</span></b><span
-style='font-size:14.0pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Courier New";color:black;mso-fareast-language:PT-BR'>)<br>
-</span><b><span style='font-size:14.0pt;font-family:Consolas;mso-fareast-font-family:
-"Times New Roman";mso-bidi-font-family:"Courier New";color:#000043;mso-fareast-language:
-PT-BR'>if </span></b><span style='font-size:14.0pt;font-family:Consolas;
-mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Courier New";
-color:black;mso-fareast-language:PT-BR'>(localPropertiesFile.exists()) {<br>
-<span style='mso-spacerun:yes'>    </span>localPropertiesFile.withReader(</span><b><span
-style='font-size:14.0pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Courier New";color:green;mso-fareast-language:PT-BR'>'UTF-8'</span></b><span
-style='font-size:14.0pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Courier New";color:black;mso-fareast-language:PT-BR'>) <b>{
-</b>reader <b>-&gt;<br>
-<span style='mso-spacerun:yes'>        </span></b>localProperties.load(reader)<br>
-<span style='mso-spacerun:yes'>    </span><b>}<br>
-</b>}<br>
-<br>
-</span><b><span style='font-size:14.0pt;font-family:Consolas;mso-fareast-font-family:
-"Times New Roman";mso-bidi-font-family:"Courier New";color:#000043;mso-fareast-language:
-PT-BR'>def </span></b><span style='font-size:14.0pt;font-family:Consolas;
-mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Courier New";
-color:black;mso-fareast-language:PT-BR'>flutterRoot =
-localProperties.getProperty(</span><b><span style='font-size:14.0pt;font-family:
-Consolas;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Courier New";
-color:green;mso-fareast-language:PT-BR'>'flutter.sdk'</span></b><span
-style='font-size:14.0pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Courier New";color:black;mso-fareast-language:PT-BR'>)<br>
-</span><b><span style='font-size:14.0pt;font-family:Consolas;mso-fareast-font-family:
-"Times New Roman";mso-bidi-font-family:"Courier New";color:#000043;mso-fareast-language:
-PT-BR'>if </span></b><span style='font-size:14.0pt;font-family:Consolas;
-mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Courier New";
-color:black;mso-fareast-language:PT-BR'>(flutterRoot == </span><b><span
-style='font-size:14.0pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Courier New";color:#000043;mso-fareast-language:PT-BR'>null</span></b><span
-style='font-size:14.0pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Courier New";color:black;mso-fareast-language:PT-BR'>) {<br>
-<span style='mso-spacerun:yes'>    </span></span><b><span style='font-size:
-14.0pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Courier New";color:#000043;mso-fareast-language:PT-BR'>throw
-new </span></b><span style='font-size:14.0pt;font-family:Consolas;mso-fareast-font-family:
-"Times New Roman";mso-bidi-font-family:"Courier New";color:black;mso-fareast-language:
-PT-BR'>GradleException(</span><b><span style='font-size:14.0pt;font-family:
-Consolas;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Courier New";
-color:green;mso-fareast-language:PT-BR'>&quot;Flutter SDK not found. Define
-location with flutter.sdk in the local.properties file.&quot;</span></b><span
-style='font-size:14.0pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Courier New";color:black;mso-fareast-language:PT-BR'>)<br>
-}<br>
-<br>
-</span><b><span style='font-size:14.0pt;font-family:Consolas;mso-fareast-font-family:
-"Times New Roman";mso-bidi-font-family:"Courier New";color:#000043;mso-fareast-language:
-PT-BR'>def </span></b><span style='font-size:14.0pt;font-family:Consolas;
-mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Courier New";
-color:black;mso-fareast-language:PT-BR'>flutterVersionCode =
-localProperties.getProperty(</span><b><span style='font-size:14.0pt;font-family:
-Consolas;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Courier New";
-color:green;mso-fareast-language:PT-BR'>'flutter.versionCode'</span></b><span
-style='font-size:14.0pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Courier New";color:black;mso-fareast-language:PT-BR'>)<br>
-</span><b><span style='font-size:14.0pt;font-family:Consolas;mso-fareast-font-family:
-"Times New Roman";mso-bidi-font-family:"Courier New";color:#000043;mso-fareast-language:
-PT-BR'>if </span></b><span style='font-size:14.0pt;font-family:Consolas;
-mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Courier New";
-color:black;mso-fareast-language:PT-BR'>(flutterVersionCode == </span><b><span
-style='font-size:14.0pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Courier New";color:#000043;mso-fareast-language:PT-BR'>null</span></b><span
-style='font-size:14.0pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Courier New";color:black;mso-fareast-language:PT-BR'>) {<br>
-<span style='mso-spacerun:yes'>    </span>flutterVersionCode = </span><b><span
-style='font-size:14.0pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Courier New";color:green;mso-fareast-language:PT-BR'>'1'<br>
-</span></b><span style='font-size:14.0pt;font-family:Consolas;mso-fareast-font-family:
-"Times New Roman";mso-bidi-font-family:"Courier New";color:black;mso-fareast-language:
-PT-BR'>}<br>
-<br>
-</span><b><span style='font-size:14.0pt;font-family:Consolas;mso-fareast-font-family:
-"Times New Roman";mso-bidi-font-family:"Courier New";color:#000043;mso-fareast-language:
-PT-BR'>def </span></b><span style='font-size:14.0pt;font-family:Consolas;
-mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Courier New";
-color:black;mso-fareast-language:PT-BR'>flutterVersionName = localProperties.getProperty(</span><b><span
-style='font-size:14.0pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Courier New";color:green;mso-fareast-language:PT-BR'>'flutter.versionName'</span></b><span
-style='font-size:14.0pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Courier New";color:black;mso-fareast-language:PT-BR'>)<br>
-</span><b><span style='font-size:14.0pt;font-family:Consolas;mso-fareast-font-family:
-"Times New Roman";mso-bidi-font-family:"Courier New";color:#000043;mso-fareast-language:
-PT-BR'>if </span></b><span style='font-size:14.0pt;font-family:Consolas;
-mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Courier New";
-color:black;mso-fareast-language:PT-BR'>(flutterVersionName == </span><b><span
-style='font-size:14.0pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Courier New";color:#000043;mso-fareast-language:PT-BR'>null</span></b><span
-style='font-size:14.0pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Courier New";color:black;mso-fareast-language:PT-BR'>) {<br>
-<span style='mso-spacerun:yes'>    </span>flutterVersionName = </span><b><span
-style='font-size:14.0pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Courier New";color:green;mso-fareast-language:PT-BR'>'1.0'<br>
-</span></b><span style='font-size:14.0pt;font-family:Consolas;mso-fareast-font-family:
-"Times New Roman";mso-bidi-font-family:"Courier New";color:black;mso-fareast-language:
-PT-BR'>}<br>
-<br>
-apply </span><b><span style='font-size:14.0pt;font-family:Consolas;mso-fareast-font-family:
-"Times New Roman";mso-bidi-font-family:"Courier New";color:green;mso-fareast-language:
-PT-BR'>plugin</span></b><span style='font-size:14.0pt;font-family:Consolas;
-mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Courier New";
-color:black;mso-fareast-language:PT-BR'>: </span><b><span style='font-size:
-14.0pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Courier New";color:green;mso-fareast-language:PT-BR'>'com.android.application'<br>
-</span></b><span style='font-size:14.0pt;font-family:Consolas;mso-fareast-font-family:
-"Times New Roman";mso-bidi-font-family:"Courier New";color:black;mso-fareast-language:
-PT-BR'>apply </span><b><span style='font-size:14.0pt;font-family:Consolas;
-mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Courier New";
-color:green;mso-fareast-language:PT-BR'>plugin</span></b><span
-style='font-size:14.0pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Courier New";color:black;mso-fareast-language:PT-BR'>: </span><b><span
-style='font-size:14.0pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Courier New";color:green;mso-fareast-language:PT-BR'>'kotlin-android'<br>
-</span></b><span style='font-size:14.0pt;font-family:Consolas;mso-fareast-font-family:
-"Times New Roman";mso-bidi-font-family:"Courier New";color:black;mso-fareast-language:
-PT-BR'>apply </span><b><span style='font-size:14.0pt;font-family:Consolas;
-mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Courier New";
-color:green;mso-fareast-language:PT-BR'>from</span></b><span style='font-size:
-14.0pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Courier New";color:black;mso-fareast-language:PT-BR'>: </span><b><span
-style='font-size:14.0pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Courier New";color:green;mso-fareast-language:PT-BR'>&quot;</span></b><span
-style='font-size:14.0pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Courier New";color:black;mso-fareast-language:PT-BR'>$flutterRoot</span><b><span
-style='font-size:14.0pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Courier New";color:green;mso-fareast-language:PT-BR'>/packages/flutter_tools/gradle/flutter.gradle&quot;<br>
-<br>
-</span></b><b><span style='font-size:14.0pt;font-family:Consolas;mso-fareast-font-family:
-"Times New Roman";mso-bidi-font-family:"Courier New";color:#000043;mso-fareast-language:
-PT-BR'>def </span></b><span style='font-size:14.0pt;font-family:Consolas;
-mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Courier New";
-color:black;mso-fareast-language:PT-BR'>keystoreProperties = </span><b><span
-style='font-size:14.0pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Courier New";color:#000043;mso-fareast-language:PT-BR'>new
-</span></b><span style='font-size:14.0pt;font-family:Consolas;mso-fareast-font-family:
-"Times New Roman";mso-bidi-font-family:"Courier New";color:black;mso-fareast-language:
-PT-BR'>Properties()<br>
-</span><b><span style='font-size:14.0pt;font-family:Consolas;mso-fareast-font-family:
-"Times New Roman";mso-bidi-font-family:"Courier New";color:#000043;mso-fareast-language:
-PT-BR'>def </span></b><span style='font-size:14.0pt;font-family:Consolas;
-mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Courier New";
-color:black;mso-fareast-language:PT-BR'>keystorePropertiesFile =
-rootProject.file(</span><b><span style='font-size:14.0pt;font-family:Consolas;
-mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Courier New";
-color:green;mso-fareast-language:PT-BR'>'key.properties'</span></b><span
-style='font-size:14.0pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Courier New";color:black;mso-fareast-language:PT-BR'>)<br>
-</span><b><span style='font-size:14.0pt;font-family:Consolas;mso-fareast-font-family:
-"Times New Roman";mso-bidi-font-family:"Courier New";color:#000043;mso-fareast-language:
-PT-BR'>if </span></b><span style='font-size:14.0pt;font-family:Consolas;
-mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Courier New";
-color:black;mso-fareast-language:PT-BR'>(keystorePropertiesFile.exists()) {<br>
-<span style='mso-spacerun:yes'>    </span>keystoreProperties.load(</span><b><span
-style='font-size:14.0pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Courier New";color:#000043;mso-fareast-language:PT-BR'>new
-</span></b><span style='font-size:14.0pt;font-family:Consolas;mso-fareast-font-family:
-"Times New Roman";mso-bidi-font-family:"Courier New";color:black;mso-fareast-language:
-PT-BR'>FileInputStream(keystorePropertiesFile))<br>
-}<br>
-<br>
-android <b>{<br>
-<span style='mso-spacerun:yes'>    </span></b>compileSdkVersion </span><span
-style='font-size:14.0pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Courier New";color:blue;mso-fareast-language:PT-BR'>28<br>
-<br>
-<span style='mso-spacerun:yes'>    </span></span><span style='font-size:14.0pt;
-font-family:Consolas;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:
-"Courier New";color:black;mso-fareast-language:PT-BR'>sourceSets <b>{<br>
-<span style='mso-spacerun:yes'>        </span></b>main.java.srcDirs += </span><b><span
-style='font-size:14.0pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Courier New";color:green;mso-fareast-language:PT-BR'>'src/main/kotlin'<br>
-<span style='mso-spacerun:yes'>    </span></span></b><b><span style='font-size:
-14.0pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Courier New";color:black;mso-fareast-language:PT-BR'>}<br>
-<br>
-<span style='mso-spacerun:yes'>    </span></span></b><span style='font-size:
-14.0pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Courier New";color:black;mso-fareast-language:PT-BR'>lintOptions
-<b>{<br>
-<span style='mso-spacerun:yes'>        </span></b>disable </span><b><span
-style='font-size:14.0pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Courier New";color:green;mso-fareast-language:PT-BR'>'InvalidPackage'<br>
-<span style='mso-spacerun:yes'>    </span></span></b><b><span style='font-size:
-14.0pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Courier New";color:black;mso-fareast-language:PT-BR'>}<br>
-<br>
-<span style='mso-spacerun:yes'>    </span></span></b><span style='font-size:
-14.0pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Courier New";color:black;mso-fareast-language:PT-BR'>defaultConfig
-<b>{<br>
-<span style='mso-spacerun:yes'>        </span></b></span><i><span
-style='font-size:14.0pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Courier New";color:gray;mso-fareast-language:PT-BR'>// </span></i><b><i><span
-style='font-size:14.0pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Courier New";color:#0073BF;mso-fareast-language:PT-BR'>TODO:
-Specify your own unique Application ID
-(https://developer.android.com/studio/build/application-id.html).<br>
-<span style='mso-spacerun:yes'>        </span></span></i></b><i><span
-style='font-size:14.0pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Courier New";color:gray;mso-fareast-language:PT-BR'>//applicationId
-&quot;com.example.quizbairrorecife&quot;<br>
-<span style='mso-spacerun:yes'>        </span></span></i><span
-style='font-size:14.0pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Courier New";color:black;mso-fareast-language:PT-BR'>applicationId
-</span><b><span style='font-size:14.0pt;font-family:Consolas;mso-fareast-font-family:
-"Times New Roman";mso-bidi-font-family:"Courier New";color:green;mso-fareast-language:
-PT-BR'>&quot;com.neitoncarvalho.quiz_bairros_recife&quot;<br>
-<span style='mso-spacerun:yes'>        </span></span></b><span
-style='font-size:14.0pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Courier New";color:black;mso-fareast-language:PT-BR'>minSdkVersion
-</span><span style='font-size:14.0pt;font-family:Consolas;mso-fareast-font-family:
-"Times New Roman";mso-bidi-font-family:"Courier New";color:blue;mso-fareast-language:
-PT-BR'>16 </span><i><span style='font-size:14.0pt;font-family:Consolas;
-mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Courier New";
-color:gray;mso-fareast-language:PT-BR'>//aqui diz a versão do android<br>
-<span style='mso-spacerun:yes'>        </span></span></i><span
-style='font-size:14.0pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Courier New";color:black;mso-fareast-language:PT-BR'>targetSdkVersion
-</span><span style='font-size:14.0pt;font-family:Consolas;mso-fareast-font-family:
-"Times New Roman";mso-bidi-font-family:"Courier New";color:blue;mso-fareast-language:
-PT-BR'>28<br>
-<span style='mso-spacerun:yes'>        </span></span><span style='font-size:
-14.0pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Courier New";color:black;mso-fareast-language:PT-BR'>versionCode
-flutterVersionCode.toInteger()<br>
-<span style='mso-spacerun:yes'>        </span>versionName flutterVersionName<br>
-<span style='mso-spacerun:yes'>    </span><b>}<br>
-<br>
-<span style='mso-spacerun:yes'>    </span></b>signingConfigs <b>{<br>
-<span style='mso-spacerun:yes'>        </span></b>release <b>{<br>
-<span style='mso-spacerun:yes'>            </span></b>keyAlias
-keystoreProperties[</span><b><span style='font-size:14.0pt;font-family:Consolas;
-mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Courier New";
-color:green;mso-fareast-language:PT-BR'>'keyAlias'</span></b><span
-style='font-size:14.0pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Courier New";color:black;mso-fareast-language:PT-BR'>]<br>
-<span style='mso-spacerun:yes'>            </span>keyPassword
-keystoreProperties[</span><b><span style='font-size:14.0pt;font-family:Consolas;
-mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Courier New";
-color:green;mso-fareast-language:PT-BR'>'keyPassword'</span></b><span
-style='font-size:14.0pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Courier New";color:black;mso-fareast-language:PT-BR'>]<br>
-<span style='mso-spacerun:yes'>            </span>storeFile keystoreProperties[</span><b><span
-style='font-size:14.0pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Courier New";color:green;mso-fareast-language:PT-BR'>'storeFile'</span></b><span
-style='font-size:14.0pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Courier New";color:black;mso-fareast-language:PT-BR'>] ?
-file(keystoreProperties[</span><b><span style='font-size:14.0pt;font-family:
-Consolas;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Courier New";
-color:green;mso-fareast-language:PT-BR'>'storeFile'</span></b><span
-style='font-size:14.0pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Courier New";color:black;mso-fareast-language:PT-BR'>]) :
-</span><b><span style='font-size:14.0pt;font-family:Consolas;mso-fareast-font-family:
-"Times New Roman";mso-bidi-font-family:"Courier New";color:#000043;mso-fareast-language:
-PT-BR'>null<br>
-<span style='mso-spacerun:yes'>            </span></span></b><span
-style='font-size:14.0pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Courier New";color:black;mso-fareast-language:PT-BR'>storePassword
-keystoreProperties[</span><b><span style='font-size:14.0pt;font-family:Consolas;
-mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Courier New";
-color:green;mso-fareast-language:PT-BR'>'storePassword'</span></b><span
-style='font-size:14.0pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Courier New";color:black;mso-fareast-language:PT-BR'>]<br>
-<span style='mso-spacerun:yes'>        </span><b>}<br>
-<span style='mso-spacerun:yes'>    </span>}<br>
-<span style='mso-spacerun:yes'>    </span></b>buildTypes <b>{<br>
-<span style='mso-spacerun:yes'>        </span></b>release <b>{<br>
-<span style='mso-spacerun:yes'>            </span></b></span><i><span
-style='font-size:14.0pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Courier New";color:gray;mso-fareast-language:PT-BR'>//signingConfig
-signingConfigs.release<br>
-<span style='mso-spacerun:yes'>            </span></span></i><span
-style='font-size:14.0pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Courier New";color:black;mso-fareast-language:PT-BR'>signingConfig
-signingConfigs.debug<br>
-<span style='mso-spacerun:yes'>        </span><b>}<br>
-<span style='mso-spacerun:yes'>    </span>}<br>
-}<br>
-<br>
-</b>flutter <b>{<br>
-<span style='mso-spacerun:yes'>    </span></b>source </span><b><span
-style='font-size:14.0pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Courier New";color:green;mso-fareast-language:PT-BR'>'../..'<br>
-</span></b><b><span style='font-size:14.0pt;font-family:Consolas;mso-fareast-font-family:
-"Times New Roman";mso-bidi-font-family:"Courier New";color:black;mso-fareast-language:
-PT-BR'>}<br>
-<br>
-</span></b><span style='font-size:14.0pt;font-family:Consolas;mso-fareast-font-family:
-"Times New Roman";mso-bidi-font-family:"Courier New";color:black;mso-fareast-language:
-PT-BR'>dependencies <b>{<br>
-<span style='mso-spacerun:yes'>    </span></b>implementation </span><b><span
-style='font-size:14.0pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Courier New";color:green;mso-fareast-language:PT-BR'>&quot;org.jetbrains.kotlin:kotlin-stdlib-jdk7:</span></b><span
-style='font-size:14.0pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Courier New";color:black;mso-fareast-language:PT-BR'>$kotlin_version</span><b><span
-style='font-size:14.0pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Courier New";color:green;mso-fareast-language:PT-BR'>&quot;<br>
-</span></b><b><span style='font-size:14.0pt;font-family:Consolas;mso-fareast-font-family:
-"Times New Roman";mso-bidi-font-family:"Courier New";color:black;mso-fareast-language:
-PT-BR'>}</span></b><span style='font-size:14.0pt;font-family:Consolas;
-mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Courier New";
-color:black;mso-fareast-language:PT-BR'><o:p></o:p></span></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-text-align:center;line-height:normal'><span style='font-size:20.0pt;font-family:
-"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-text-align:center;line-height:normal'><span style='font-size:20.0pt;font-family:
-"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
-
-<div style='mso-element:para-border-div;border:solid windowtext 1.0pt;
-mso-border-alt:solid windowtext .5pt;padding:1.0pt 4.0pt 1.0pt 4.0pt'>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;border:none;mso-border-alt:solid windowtext .5pt;padding:0cm;mso-padding-alt:
-1.0pt 4.0pt 1.0pt 4.0pt'><span style='font-size:20.0pt;font-family:"Arial","sans-serif";
-mso-fareast-language:PT-BR;mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Imagem_x0020_34"
- o:spid="_x0000_i1028" type="#_x0000_t75" style='width:212.25pt;height:45pt;
- visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="index_arquivos/image058.png" o:title=""/>
-</v:shape><![endif]--><![if !vml]><img border=0 width=283 height=60
-src="index_arquivos/image032.jpg" v:shapes="Imagem_x0020_34"><![endif]></span><span
-style='font-size:20.0pt;font-family:"Arial","sans-serif"'>Neste arquivo é onde
-vai ficar a chave conforme orientação da documentação oficial do flutter, no
-seguinte link: </span><span style='font-size:20.0pt;font-family:"Arial","sans-serif";
-mso-fareast-language:PT-BR;mso-no-proof:yes'>: </span><span style='font-size:
-20.0pt;font-family:"Arial","sans-serif"'><a
-href="https://flutter.dev/docs/deployment/android">https://flutter.dev/docs/deployment/android</a><o:p></o:p></span></p>
-
-</div>
-
-<p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-text-align:center;line-height:normal'><span style='font-size:20.0pt;font-family:
-"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-text-align:center;line-height:normal'><span style='font-size:20.0pt;font-family:
-"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
-background:white'><b><span style='font-size:20.0pt;font-family:Consolas;
-mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Courier New";
-color:navy;mso-fareast-language:PT-BR'>storePassword</span></b><span
-style='font-size:20.0pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Courier New";color:black;mso-fareast-language:PT-BR'>=</span><b><span
-style='font-size:20.0pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Courier New";color:green;mso-fareast-language:PT-BR'>Senha_que_você_criar_coloca_aqui<br>
-</span></b><b><span style='font-size:20.0pt;font-family:Consolas;mso-fareast-font-family:
-"Times New Roman";mso-bidi-font-family:"Courier New";color:navy;mso-fareast-language:
-PT-BR'>keyPassword</span></b><span style='font-size:20.0pt;font-family:Consolas;
-mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Courier New";
-color:black;mso-fareast-language:PT-BR'>=</span><b><span style='font-size:20.0pt;
-font-family:Consolas;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:
-"Courier New";color:green;mso-fareast-language:PT-BR'>Senha_que_você_criar_coloca_aqui<br>
-</span></b><b><span style='font-size:20.0pt;font-family:Consolas;mso-fareast-font-family:
-"Times New Roman";mso-bidi-font-family:"Courier New";color:navy;mso-fareast-language:
-PT-BR'>keyAlias</span></b><span style='font-size:20.0pt;font-family:Consolas;
-mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Courier New";
-color:black;mso-fareast-language:PT-BR'>=</span><b><span style='font-size:20.0pt;
-font-family:Consolas;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:
-"Courier New";color:green;mso-fareast-language:PT-BR'>key<br>
-</span></b><b><span style='font-size:20.0pt;font-family:Consolas;mso-fareast-font-family:
-"Times New Roman";mso-bidi-font-family:"Courier New";color:navy;mso-fareast-language:
-PT-BR'>storeFile</span></b><span style='font-size:20.0pt;font-family:Consolas;
-mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Courier New";
-color:black;mso-fareast-language:PT-BR'>=</span><b><span style='font-size:20.0pt;
-font-family:Consolas;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:
-"Courier New";color:green;mso-fareast-language:PT-BR'>C:/src/key.jks</span></b><span
-style='font-size:20.0pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Courier New";color:black;mso-fareast-language:PT-BR'><o:p></o:p></span></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-text-align:center;line-height:normal'><span style='font-size:20.0pt;font-family:
-"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal'><span style='font-size:20.0pt;font-family:"Arial","sans-serif"'>Observação
-na linha </span><b><span style='font-size:20.0pt;font-family:Consolas;
-mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Courier New";
-color:navy;mso-fareast-language:PT-BR'>storeFile</span></b><span
-style='font-size:20.0pt;font-family:"Arial","sans-serif"'> <span
-style='mso-spacerun:yes'> </span>informa o local que deve salvar o arquivo
-key.jks criado. Eu coloquei neste lugar, mas você pode colocar em outro lugar
-caso queira.<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal'><span style='font-size:20.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal'><span style='font-size:20.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-text-align:center;line-height:normal'><span style='font-size:20.0pt;font-family:
 "Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
 text-align:center;line-height:normal'><!--[if gte vml 1]><v:shape id="Imagem_x0020_30"
- o:spid="_x0000_s1046" type="#_x0000_t75" style='position:absolute;left:0;
+ o:spid="_x0000_s1044" type="#_x0000_t75" style='position:absolute;left:0;
  text-align:left;margin-left:0;margin-top:21.1pt;width:580.35pt;height:225.9pt;
- z-index:-4;visibility:visible;mso-wrap-style:square;mso-wrap-distance-left:9pt;
+ z-index:-1;visibility:visible;mso-wrap-style:square;mso-wrap-distance-left:9pt;
  mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;
  mso-wrap-distance-bottom:0;mso-position-horizontal:left;
  mso-position-horizontal-relative:text;mso-position-vertical:absolute;
  mso-position-vertical-relative:text' wrapcoords="-56 -143 -56 21801 21661 21801 21661 -143 -56 -143"
  stroked="t" strokecolor="windowText">
  <v:stroke opacity="64764f"/>
- <v:imagedata src="index_arquivos/image017.png" o:title=""/>
+ <v:imagedata src="index_arquivos/image036.png" o:title=""/>
  <w:wrap type="tight"/>
 </v:shape><![endif]--><![if !vml]><img width=776 height=303
-src="index_arquivos/image034.gif" align=left hspace=12 v:shapes="Imagem_x0020_30"><![endif]><span
+src="index_arquivos/image026.gif" align=left hspace=12 v:shapes="Imagem_x0020_30"><![endif]><span
 style='font-size:20.0pt;font-family:"Arial","sans-serif"'><o:p></o:p></span></p>
 
 <div style='mso-element:para-border-div;border:solid windowtext 1.0pt;
-mso-border-alt:solid windowtext .5pt;padding:1.0pt 0cm 1.0pt 4.0pt'>
+mso-border-alt:solid windowtext .5pt;padding:1.0pt 4.0pt 1.0pt 4.0pt'>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
 normal;border:none;mso-border-alt:solid windowtext .5pt;padding:0cm;mso-padding-alt:
-1.0pt 0cm 1.0pt 4.0pt'><span style='font-size:20.0pt;font-family:"Arial","sans-serif"'><span
-style='mso-spacerun:yes'> </span>Neste arquivo também quais são as bibliotecas
-que são definidas que do caso o sdk flutter, e informa qual é o pacote
+1.0pt 4.0pt 1.0pt 4.0pt'><span style='font-size:20.0pt;font-family:"Arial","sans-serif"'><span
+style='mso-spacerun:yes'> </span>Neste arquivo também informa qual é o pacote
 principal para o projeto, os controles das versões que serão apresentada na
 loja da play store por meio o Google play Console.<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
 normal;border:none;mso-border-alt:solid windowtext .5pt;padding:0cm;mso-padding-alt:
-1.0pt 0cm 1.0pt 4.0pt'><span style='font-size:20.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+1.0pt 4.0pt 1.0pt 4.0pt'><span style='font-size:20.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
 normal;border:none;mso-border-alt:solid windowtext .5pt;padding:0cm;mso-padding-alt:
-1.0pt 0cm 1.0pt 4.0pt'><span style='font-size:20.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+1.0pt 4.0pt 1.0pt 4.0pt'><span style='font-size:20.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
 normal;border:none;mso-border-alt:solid windowtext .5pt;padding:0cm;mso-padding-alt:
-1.0pt 0cm 1.0pt 4.0pt'><span style='font-size:20.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+1.0pt 4.0pt 1.0pt 4.0pt'><span style='font-size:20.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
 normal;border:none;mso-border-alt:solid windowtext .5pt;padding:0cm;mso-padding-alt:
-1.0pt 0cm 1.0pt 4.0pt'><span style='font-size:20.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+1.0pt 4.0pt 1.0pt 4.0pt'><span style='font-size:20.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
 normal;border:none;mso-border-alt:solid windowtext .5pt;padding:0cm;mso-padding-alt:
-1.0pt 0cm 1.0pt 4.0pt'><span style='font-size:20.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+1.0pt 4.0pt 1.0pt 4.0pt'><span style='font-size:20.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
 normal;border:none;mso-border-alt:solid windowtext .5pt;padding:0cm;mso-padding-alt:
-1.0pt 0cm 1.0pt 4.0pt'><span style='font-size:20.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+1.0pt 4.0pt 1.0pt 4.0pt'><span style='font-size:20.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
 normal;border:none;mso-border-alt:solid windowtext .5pt;padding:0cm;mso-padding-alt:
-1.0pt 0cm 1.0pt 4.0pt'><span style='font-size:20.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+1.0pt 4.0pt 1.0pt 4.0pt'><span style='font-size:20.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
 normal;border:none;mso-border-alt:solid windowtext .5pt;padding:0cm;mso-padding-alt:
-1.0pt 0cm 1.0pt 4.0pt'><span style='font-size:20.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+1.0pt 4.0pt 1.0pt 4.0pt'><span style='font-size:20.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
 normal;border:none;mso-border-alt:solid windowtext .5pt;padding:0cm;mso-padding-alt:
-1.0pt 0cm 1.0pt 4.0pt'><span style='font-size:20.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+1.0pt 4.0pt 1.0pt 4.0pt'><span style='font-size:20.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
 
 </div>
 
@@ -1783,28 +1018,26 @@ text-align:center;line-height:normal'><span style='font-size:20.0pt;font-family:
 "Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal'><b style='mso-bidi-font-weight:normal'><span style='font-size:28.0pt;
-font-family:"Arial","sans-serif"'>Estrutura do Projeto <span style='color:#0070C0;
-background:yellow;mso-highlight:yellow'>QUIZ DOS BAIRROS DO RECIFE</span>
-criado no Flutter usando a linguagem de programção Dart:<o:p></o:p></span></b></p>
+normal'><span style='font-size:20.0pt;font-family:"Arial","sans-serif"'>Estrutura
+do Projeto Flutter usando a linguagem dart:<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
 normal'><span style='font-size:20.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
 text-align:center;line-height:normal'><!--[if gte vml 1]><v:shape id="Imagem_x0020_2"
- o:spid="_x0000_s1045" type="#_x0000_t75" alt="Estrutura_projeto.png" style='position:absolute;
+ o:spid="_x0000_s1043" type="#_x0000_t75" alt="Estrutura_projeto.png" style='position:absolute;
  left:0;text-align:left;margin-left:0;margin-top:1.5pt;width:416.8pt;height:470.55pt;
- z-index:-14;visibility:visible;mso-wrap-style:square;mso-wrap-distance-left:9pt;
+ z-index:-11;visibility:visible;mso-wrap-style:square;mso-wrap-distance-left:9pt;
  mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;
  mso-wrap-distance-bottom:0;mso-position-horizontal:left;
  mso-position-horizontal-relative:text;mso-position-vertical:absolute;
  mso-position-vertical-relative:text' stroked="t" strokecolor="windowText">
  <v:stroke opacity="64764f"/>
- <v:imagedata src="index_arquivos/image019.png" o:title="Estrutura_projeto"/>
+ <v:imagedata src="index_arquivos/image002.png" o:title="Estrutura_projeto"/>
  <w:wrap type="square"/>
 </v:shape><![endif]--><![if !vml]><img width=558 height=629
-src="index_arquivos/image036.gif" align=left hspace=12
+src="index_arquivos/image027.gif" align=left hspace=12
 alt="Estrutura_projeto.png" v:shapes="Imagem_x0020_2"><![endif]><span
 style='font-size:20.0pt;font-family:"Arial","sans-serif"'><o:p></o:p></span></p>
 
@@ -1898,11 +1131,11 @@ mso-border-alt:solid windowtext .5pt;padding:1.0pt 4.0pt 1.0pt 4.0pt'>
 normal;border:none;mso-border-alt:solid windowtext .5pt;padding:0cm;mso-padding-alt:
 1.0pt 4.0pt 1.0pt 4.0pt'><span style='font-size:20.0pt;font-family:"Arial","sans-serif";
 mso-fareast-language:PT-BR;mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Imagem_x0020_3"
- o:spid="_x0000_i1027" type="#_x0000_t75" style='width:147pt;height:34.5pt;
+ o:spid="_x0000_i1030" type="#_x0000_t75" style='width:147pt;height:34.5pt;
  visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="index_arquivos/image021.png" o:title=""/>
+ <v:imagedata src="index_arquivos/image006.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=196 height=46
-src="index_arquivos/image038.jpg" v:shapes="Imagem_x0020_3"><![endif]></span><span
+src="index_arquivos/image031.jpg" v:shapes="Imagem_x0020_3"><![endif]></span><span
 style='font-size:20.0pt;font-family:"Arial","sans-serif"'>É onde fica o projeto
 Quiz dos Bairros do Recife.<o:p></o:p></span></p>
 
@@ -1924,11 +1157,11 @@ mso-border-alt:solid windowtext .5pt;padding:1.0pt 4.0pt 1.0pt 4.0pt'>
 normal;border:none;mso-border-alt:solid windowtext .5pt;padding:0cm;mso-padding-alt:
 1.0pt 4.0pt 1.0pt 4.0pt'><span style='font-size:20.0pt;font-family:"Arial","sans-serif";
 mso-fareast-language:PT-BR;mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Imagem_x0020_4"
- o:spid="_x0000_i1026" type="#_x0000_t75" style='width:155.25pt;height:27.75pt;
+ o:spid="_x0000_i1029" type="#_x0000_t75" style='width:155.25pt;height:27.75pt;
  visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="index_arquivos/image023.png" o:title=""/>
+ <v:imagedata src="index_arquivos/image008.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=207 height=37
-src="index_arquivos/image040.jpg" v:shapes="Imagem_x0020_4"><![endif]></span><span
+src="index_arquivos/image034.jpg" v:shapes="Imagem_x0020_4"><![endif]></span><span
 style='font-size:20.0pt;font-family:"Arial","sans-serif"'>É onde fica a classe
 principal chamada de main.dart<o:p></o:p></span></p>
 
@@ -2048,18 +1281,18 @@ mso-border-alt:solid windowtext .5pt;padding:1.0pt 4.0pt 1.0pt 4.0pt'>
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
 normal;border:none;mso-border-alt:solid windowtext .5pt;padding:0cm;mso-padding-alt:
 1.0pt 4.0pt 1.0pt 4.0pt'><!--[if gte vml 1]><v:shape id="Imagem_x0020_3"
- o:spid="_x0000_s1044" type="#_x0000_t75" style='position:absolute;
- margin-left:0;margin-top:12.25pt;width:215.25pt;height:54.2pt;z-index:3;
+ o:spid="_x0000_s1042" type="#_x0000_t75" style='position:absolute;
+ margin-left:0;margin-top:12.25pt;width:215.25pt;height:54.2pt;z-index:2;
  visibility:visible;mso-wrap-style:square;mso-wrap-distance-left:9pt;
  mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;
  mso-wrap-distance-bottom:0;mso-position-horizontal:left;
  mso-position-horizontal-relative:text;mso-position-vertical:absolute;
  mso-position-vertical-relative:text' stroked="t" strokecolor="windowText">
  <v:stroke opacity="64764f"/>
- <v:imagedata src="index_arquivos/image025.png" o:title=""/>
+ <v:imagedata src="index_arquivos/image010.png" o:title=""/>
  <w:wrap type="square"/>
 </v:shape><![endif]--><![if !vml]><img width=289 height=75
-src="index_arquivos/image042.gif" align=left hspace=12 v:shapes="Imagem_x0020_3"><![endif]><span
+src="index_arquivos/image038.gif" align=left hspace=12 v:shapes="Imagem_x0020_3"><![endif]><span
 style='font-size:20.0pt;font-family:"Arial","sans-serif"'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
@@ -3108,17 +2341,17 @@ mso-border-alt:solid windowtext .5pt;padding:1.0pt 4.0pt 1.0pt 4.0pt'>
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
 normal;border:none;mso-border-alt:solid windowtext .5pt;padding:0cm;mso-padding-alt:
 1.0pt 4.0pt 1.0pt 4.0pt'><span style='font-size:20.0pt;font-family:"Arial","sans-serif";
-mso-fareast-language:PT-BR;mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Imagem_x0020_6"
- o:spid="_x0000_i1025" type="#_x0000_t75" style='width:238.5pt;height:49.5pt;
- visibility:visible;mso-wrap-style:square' o:bordertopcolor="black"
- o:borderleftcolor="black" o:borderbottomcolor="black" o:borderrightcolor="black">
- <v:imagedata src="index_arquivos/image027.png" o:title=""/>
+mso-fareast-language:PT-BR;mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="_x0000_i1028"
+ type="#_x0000_t75" style='width:238.5pt;height:49.5pt;visibility:visible;
+ mso-wrap-style:square' o:bordertopcolor="black" o:borderleftcolor="black"
+ o:borderbottomcolor="black" o:borderrightcolor="black">
+ <v:imagedata src="index_arquivos/image012.png" o:title=""/>
  <w:bordertop type="single" width="6"/>
  <w:borderleft type="single" width="6"/>
  <w:borderbottom type="single" width="6"/>
  <w:borderright type="single" width="6"/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=320 height=68
-src="index_arquivos/image044.jpg" v:shapes="Imagem_x0020_6"><![endif]></span><span
+src="index_arquivos/image040.jpg" v:shapes="_x0000_i1028"><![endif]></span><span
 style='font-size:20.0pt;font-family:"Arial","sans-serif"'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
@@ -3327,17 +2560,17 @@ normal'><span style='font-size:14.0pt;font-family:"Arial","sans-serif"'><o:p>&nb
 normal'><span style='font-size:14.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal'><!--[if gte vml 1]><v:shape id="Imagem_x0020_7" o:spid="_x0000_s1043"
+normal'><!--[if gte vml 1]><v:shape id="Imagem_x0020_7" o:spid="_x0000_s1041"
  type="#_x0000_t75" style='position:absolute;margin-left:0;margin-top:8.7pt;
- width:227.35pt;height:60.05pt;z-index:4;visibility:visible;mso-wrap-style:square;
+ width:227.35pt;height:60.05pt;z-index:3;visibility:visible;mso-wrap-style:square;
  mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;
  mso-wrap-distance-bottom:0;mso-position-horizontal:left;
  mso-position-horizontal-relative:text;mso-position-vertical:absolute;
  mso-position-vertical-relative:text'>
- <v:imagedata src="index_arquivos/image029.png" o:title=""/>
+ <v:imagedata src="index_arquivos/image019.png" o:title=""/>
  <w:wrap type="square"/>
 </v:shape><![endif]--><![if !vml]><img width=303 height=80
-src="index_arquivos/image046.jpg" align=left hspace=12 v:shapes="Imagem_x0020_7"><![endif]><span
+src="index_arquivos/image044.jpg" align=left hspace=12 v:shapes="Imagem_x0020_7"><![endif]><span
 style='font-size:14.0pt;font-family:"Arial","sans-serif"'><o:p></o:p></span></p>
 
 <div style='mso-element:para-border-div;border:solid windowtext 1.0pt;
@@ -3548,18 +2781,18 @@ mso-border-alt:solid windowtext .5pt;padding:1.0pt 4.0pt 1.0pt 4.0pt'>
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
 normal;border:none;mso-border-alt:solid windowtext .5pt;padding:0cm;mso-padding-alt:
 1.0pt 4.0pt 1.0pt 4.0pt'><!--[if gte vml 1]><v:shape id="Imagem_x0020_8"
- o:spid="_x0000_s1042" type="#_x0000_t75" style='position:absolute;
- margin-left:0;margin-top:5.4pt;width:372.05pt;height:57.05pt;z-index:5;
+ o:spid="_x0000_s1040" type="#_x0000_t75" style='position:absolute;
+ margin-left:0;margin-top:5.4pt;width:372.05pt;height:57.05pt;z-index:4;
  visibility:visible;mso-wrap-style:square;mso-wrap-distance-left:9pt;
  mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;
  mso-wrap-distance-bottom:0;mso-position-horizontal:left;
  mso-position-horizontal-relative:text;mso-position-vertical:absolute;
  mso-position-vertical-relative:text' stroked="t" strokecolor="windowText">
  <v:stroke opacity="64764f"/>
- <v:imagedata src="index_arquivos/image031.png" o:title=""/>
+ <v:imagedata src="index_arquivos/image021.png" o:title=""/>
  <w:wrap type="square"/>
 </v:shape><![endif]--><![if !vml]><img width=498 height=78
-src="index_arquivos/image048.gif" align=left hspace=12 v:shapes="Imagem_x0020_8"><![endif]><span
+src="index_arquivos/image045.gif" align=left hspace=12 v:shapes="Imagem_x0020_8"><![endif]><span
 style='font-size:14.0pt;font-family:"Arial","sans-serif"'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
@@ -4014,20 +3247,18 @@ mso-border-alt:solid windowtext .5pt;padding:1.0pt 4.0pt 1.0pt 4.0pt'>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
 normal;border:none;mso-border-alt:solid windowtext .5pt;padding:0cm;mso-padding-alt:
-1.0pt 4.0pt 1.0pt 4.0pt'><!--[if gte vml 1]><v:shape id="Imagem_x0020_9"
- o:spid="_x0000_s1041" type="#_x0000_t75" style='position:absolute;
- margin-left:1.5pt;margin-top:2.75pt;width:285.15pt;height:157.3pt;z-index:-1;
- visibility:visible;mso-wrap-style:square;mso-wrap-distance-left:9pt;
- mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;
- mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;
- mso-position-horizontal-relative:text;mso-position-vertical:absolute;
- mso-position-vertical-relative:text' wrapcoords="-114 -206 -114 21833 21702 21833 21702 -206 -114 -206"
- stroked="t" strokecolor="windowText">
- <v:stroke opacity="64764f"/>
- <v:imagedata src="index_arquivos/image033.png" o:title=""/>
- <w:wrap type="tight"/>
-</v:shape><![endif]--><![if !vml]><img width=382 height=211
-src="index_arquivos/image049.gif" align=left hspace=12 v:shapes="Imagem_x0020_9"><![endif]><span
+1.0pt 4.0pt 1.0pt 4.0pt'><span style='font-size:14.0pt;font-family:"Arial","sans-serif";
+mso-fareast-language:PT-BR;mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Imagem_x0020_9"
+ o:spid="_x0000_i1027" type="#_x0000_t75" style='width:285pt;height:157.5pt;
+ visibility:visible;mso-wrap-style:square' o:bordertopcolor="black"
+ o:borderleftcolor="black" o:borderbottomcolor="black" o:borderrightcolor="black">
+ <v:imagedata src="index_arquivos/image023.png" o:title=""/>
+ <w:bordertop type="single" width="6"/>
+ <w:borderleft type="single" width="6"/>
+ <w:borderbottom type="single" width="6"/>
+ <w:borderright type="single" width="6"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=382 height=212
+src="index_arquivos/image051.jpg" v:shapes="Imagem_x0020_9"><![endif]></span><span
 style='font-size:14.0pt;font-family:"Arial","sans-serif"'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
@@ -4038,38 +3269,6 @@ normal;border:none;mso-border-alt:solid windowtext .5pt;padding:0cm;mso-padding-
 normal;border:none;mso-border-alt:solid windowtext .5pt;padding:0cm;mso-padding-alt:
 1.0pt 4.0pt 1.0pt 4.0pt'><span style='font-size:14.0pt;font-family:"Arial","sans-serif"'>Componentes
 que também são widget<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;border:none;mso-border-alt:solid windowtext .5pt;padding:0cm;mso-padding-alt:
-1.0pt 4.0pt 1.0pt 4.0pt'><span style='font-size:14.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;border:none;mso-border-alt:solid windowtext .5pt;padding:0cm;mso-padding-alt:
-1.0pt 4.0pt 1.0pt 4.0pt'><span style='font-size:14.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;border:none;mso-border-alt:solid windowtext .5pt;padding:0cm;mso-padding-alt:
-1.0pt 4.0pt 1.0pt 4.0pt'><span style='font-size:14.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;border:none;mso-border-alt:solid windowtext .5pt;padding:0cm;mso-padding-alt:
-1.0pt 4.0pt 1.0pt 4.0pt'><span style='font-size:14.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;border:none;mso-border-alt:solid windowtext .5pt;padding:0cm;mso-padding-alt:
-1.0pt 4.0pt 1.0pt 4.0pt'><span style='font-size:14.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;border:none;mso-border-alt:solid windowtext .5pt;padding:0cm;mso-padding-alt:
-1.0pt 4.0pt 1.0pt 4.0pt'><span style='font-size:14.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;border:none;mso-border-alt:solid windowtext .5pt;padding:0cm;mso-padding-alt:
-1.0pt 4.0pt 1.0pt 4.0pt'><span style='font-size:14.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;border:none;mso-border-alt:solid windowtext .5pt;padding:0cm;mso-padding-alt:
-1.0pt 4.0pt 1.0pt 4.0pt'><span style='font-size:14.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
 
 </div>
 
@@ -4091,19 +3290,19 @@ mso-border-alt:solid windowtext .5pt;padding:1.0pt 4.0pt 1.0pt 4.0pt'>
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
 normal;border:none;mso-border-alt:solid windowtext .5pt;padding:0cm;mso-padding-alt:
 1.0pt 4.0pt 1.0pt 4.0pt'><!--[if gte vml 1]><v:shape id="Imagem_x0020_10"
- o:spid="_x0000_s1040" type="#_x0000_t75" style='position:absolute;
+ o:spid="_x0000_s1039" type="#_x0000_t75" style='position:absolute;
  margin-left:1.5pt;margin-top:-1090.9pt;width:283.1pt;height:158.25pt;
- z-index:-10;visibility:visible;mso-wrap-style:square;mso-wrap-distance-left:9pt;
+ z-index:-7;visibility:visible;mso-wrap-style:square;mso-wrap-distance-left:9pt;
  mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;
  mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;
  mso-position-horizontal-relative:text;mso-position-vertical:absolute;
  mso-position-vertical-relative:text' wrapcoords="-114 -205 -114 21907 21745 21907 21745 -205 -114 -205"
  stroked="t" strokecolor="windowText">
  <v:stroke opacity="64764f"/>
- <v:imagedata src="index_arquivos/image035.png" o:title=""/>
+ <v:imagedata src="index_arquivos/image028.png" o:title=""/>
  <w:wrap type="tight"/>
 </v:shape><![endif]--><![if !vml]><img width=379 height=213
-src="index_arquivos/image050.gif" align=left hspace=12 v:shapes="Imagem_x0020_10"><![endif]><span
+src="index_arquivos/image052.gif" align=left hspace=12 v:shapes="Imagem_x0020_10"><![endif]><span
 style='font-size:14.0pt;font-family:"Arial","sans-serif"'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
@@ -4131,22 +3330,6 @@ do usuário ao construir uma constelação de outros widgets que descrevem a
 interface do usuário de forma mais concreta. O processo de construção continua
 recursivamente até que a descrição da interface do usuário seja totalmente
 concreta.<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;border:none;mso-border-alt:solid windowtext .5pt;padding:0cm;mso-padding-alt:
-1.0pt 4.0pt 1.0pt 4.0pt'><span style='font-size:14.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;border:none;mso-border-alt:solid windowtext .5pt;padding:0cm;mso-padding-alt:
-1.0pt 4.0pt 1.0pt 4.0pt'><span style='font-size:14.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;border:none;mso-border-alt:solid windowtext .5pt;padding:0cm;mso-padding-alt:
-1.0pt 4.0pt 1.0pt 4.0pt'><span style='font-size:14.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;border:none;mso-border-alt:solid windowtext .5pt;padding:0cm;mso-padding-alt:
-1.0pt 4.0pt 1.0pt 4.0pt'><span style='font-size:14.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
 normal;border:none;mso-border-alt:solid windowtext .5pt;padding:0cm;mso-padding-alt:
@@ -4410,8 +3593,8 @@ mso-border-alt:solid windowtext .5pt;padding:1.0pt 4.0pt 1.0pt 4.0pt'>
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
 normal;border:none;mso-border-alt:solid windowtext .5pt;padding:0cm;mso-padding-alt:
 1.0pt 4.0pt 1.0pt 4.0pt'><!--[if gte vml 1]><v:shape id="Imagem_x0020_11"
- o:spid="_x0000_s1039" type="#_x0000_t75" style='position:absolute;
- margin-left:1.5pt;margin-top:-13.45pt;width:256.6pt;height:145.15pt;z-index:-9;
+ o:spid="_x0000_s1038" type="#_x0000_t75" style='position:absolute;
+ margin-left:1.5pt;margin-top:-13.45pt;width:256.6pt;height:145.15pt;z-index:-6;
  visibility:visible;mso-wrap-style:square;mso-wrap-distance-left:9pt;
  mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;
  mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;
@@ -4419,10 +3602,10 @@ normal;border:none;mso-border-alt:solid windowtext .5pt;padding:0cm;mso-padding-
  mso-position-vertical-relative:text' wrapcoords="-126 -223 -126 21875 21718 21875 21718 -223 -126 -223"
  stroked="t" strokecolor="windowText">
  <v:stroke opacity="64764f"/>
- <v:imagedata src="index_arquivos/image037.png" o:title=""/>
+ <v:imagedata src="index_arquivos/image030.png" o:title=""/>
  <w:wrap type="tight"/>
 </v:shape><![endif]--><![if !vml]><img width=344 height=196
-src="index_arquivos/image051.gif" align=left hspace=12 v:shapes="Imagem_x0020_11"><![endif]><span
+src="index_arquivos/image053.gif" align=left hspace=12 v:shapes="Imagem_x0020_11"><![endif]><span
 style='font-size:14.0pt;font-family:"Arial","sans-serif"'>A Classe MensagemIconeCentral<span
 style='mso-spacerun:yes'>  </span>herda da<span style='mso-spacerun:yes'> 
 </span>Classe StatelessWidget que é um widget que não requer estado mutável,
@@ -4431,14 +3614,6 @@ outros widgets que descrevem a interface do usuário de forma mais concreta. O
 processo de construção continua recursivamente até que a descrição da interface
 do usuário seja totalmente concreta (por exemplo, consiste inteiramente em
 RenderObjectWidget s, que descreve RenderObject s concretos ).<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;border:none;mso-border-alt:solid windowtext .5pt;padding:0cm;mso-padding-alt:
-1.0pt 4.0pt 1.0pt 4.0pt'><span style='font-size:14.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;border:none;mso-border-alt:solid windowtext .5pt;padding:0cm;mso-padding-alt:
-1.0pt 4.0pt 1.0pt 4.0pt'><span style='font-size:14.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
 normal;border:none;mso-border-alt:solid windowtext .5pt;padding:0cm;mso-padding-alt:
@@ -4750,8 +3925,8 @@ mso-border-alt:solid windowtext .5pt;padding:1.0pt 4.0pt 1.0pt 4.0pt'>
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
 normal;border:none;mso-border-alt:solid windowtext .5pt;padding:0cm;mso-padding-alt:
 1.0pt 4.0pt 1.0pt 4.0pt'><!--[if gte vml 1]><v:shape id="Imagem_x0020_12"
- o:spid="_x0000_s1038" type="#_x0000_t75" style='position:absolute;
- margin-left:1.5pt;margin-top:-14.95pt;width:245.25pt;height:137.9pt;z-index:-8;
+ o:spid="_x0000_s1037" type="#_x0000_t75" style='position:absolute;
+ margin-left:1.5pt;margin-top:-14.95pt;width:245.25pt;height:137.9pt;z-index:-5;
  visibility:visible;mso-wrap-style:square;mso-wrap-distance-left:9pt;
  mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;
  mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;
@@ -4759,10 +3934,10 @@ normal;border:none;mso-border-alt:solid windowtext .5pt;padding:0cm;mso-padding-
  mso-position-vertical-relative:text' wrapcoords="-132 -235 -132 21851 21666 21851 21666 -235 -132 -235"
  stroked="t" strokecolor="windowText">
  <v:stroke opacity="64764f"/>
- <v:imagedata src="index_arquivos/image039.png" o:title=""/>
+ <v:imagedata src="index_arquivos/image033.png" o:title=""/>
  <w:wrap type="tight"/>
 </v:shape><![endif]--><![if !vml]><img width=329 height=186
-src="index_arquivos/image080.gif" align=left hspace=12 v:shapes="Imagem_x0020_12"><![endif]><span
+src="index_arquivos/image054.gif" align=left hspace=12 v:shapes="Imagem_x0020_12"><![endif]><span
 style='font-size:14.0pt;font-family:"Arial","sans-serif"'>É uma classe
 MensagemFinal que é um AlertDialog para o placar final do Quis<o:p></o:p></span></p>
 
@@ -5214,8 +4389,8 @@ mso-border-alt:solid windowtext .5pt;padding:1.0pt 4.0pt 1.0pt 4.0pt'>
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
 normal;border:none;mso-border-alt:solid windowtext .5pt;padding:0cm;mso-padding-alt:
 1.0pt 4.0pt 1.0pt 4.0pt'><!--[if gte vml 1]><v:shape id="Imagem_x0020_13"
- o:spid="_x0000_s1037" type="#_x0000_t75" style='position:absolute;
- margin-left:1.5pt;margin-top:2.85pt;width:237.6pt;height:132.65pt;z-index:-7;
+ o:spid="_x0000_s1036" type="#_x0000_t75" style='position:absolute;
+ margin-left:1.5pt;margin-top:2.85pt;width:237.6pt;height:132.65pt;z-index:-4;
  visibility:visible;mso-wrap-style:square;mso-wrap-distance-left:9pt;
  mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;
  mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;
@@ -5223,10 +4398,10 @@ normal;border:none;mso-border-alt:solid windowtext .5pt;padding:0cm;mso-padding-
  mso-position-vertical-relative:text' wrapcoords="-136 -244 -136 21738 21682 21738 21682 -244 -136 -244"
  stroked="t" strokecolor="windowText">
  <v:stroke opacity="64764f"/>
- <v:imagedata src="index_arquivos/image041.png" o:title=""/>
+ <v:imagedata src="index_arquivos/image037.png" o:title=""/>
  <w:wrap type="tight"/>
 </v:shape><![endif]--><![if !vml]><img width=319 height=179
-src="index_arquivos/image081.gif" align=left hspace=12 v:shapes="Imagem_x0020_13"><![endif]><span
+src="index_arquivos/image062.gif" align=left hspace=12 v:shapes="Imagem_x0020_13"><![endif]><span
 style='font-size:14.0pt;font-family:"Arial","sans-serif"'>MensagemResultado
 apresentará um AlertDialog com o resultado da resposta do jogador ao clicar no
 botão de resposta<o:p></o:p></span></p>
@@ -5596,8 +4771,8 @@ mso-border-alt:solid windowtext .5pt;padding:1.0pt 4.0pt 1.0pt 4.0pt'>
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
 normal;border:none;mso-border-alt:solid windowtext .5pt;padding:0cm;mso-padding-alt:
 1.0pt 4.0pt 1.0pt 4.0pt'><!--[if gte vml 1]><v:shape id="Imagem_x0020_14"
- o:spid="_x0000_s1036" type="#_x0000_t75" style='position:absolute;
- margin-left:1.5pt;margin-top:1.35pt;width:255.25pt;height:145.35pt;z-index:-6;
+ o:spid="_x0000_s1035" type="#_x0000_t75" style='position:absolute;
+ margin-left:1.5pt;margin-top:1.35pt;width:255.25pt;height:145.35pt;z-index:-3;
  visibility:visible;mso-wrap-style:square;mso-wrap-distance-left:9pt;
  mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;
  mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;
@@ -5605,10 +4780,10 @@ normal;border:none;mso-border-alt:solid windowtext .5pt;padding:0cm;mso-padding-
  mso-position-vertical-relative:text' wrapcoords="-127 -223 -127 21845 21706 21845 21706 -223 -127 -223"
  stroked="t" strokecolor="windowText">
  <v:stroke opacity="64764f"/>
- <v:imagedata src="index_arquivos/image043.png" o:title=""/>
+ <v:imagedata src="index_arquivos/image039.png" o:title=""/>
  <w:wrap type="tight"/>
 </v:shape><![endif]--><![if !vml]><img width=342 height=196
-src="index_arquivos/image082.gif" align=left hspace=12 v:shapes="Imagem_x0020_14"><![endif]><span
+src="index_arquivos/image063.gif" align=left hspace=12 v:shapes="Imagem_x0020_14"><![endif]><span
 style='font-size:14.0pt;font-family:"Arial","sans-serif"'>Nesta Classe
 QuestionarioQuiz que herda da Classe StatelessWidget que é um widget que não
 requer estado mutável inicial. Neste widget StatelessWidget<o:p></o:p></span></p>
@@ -5624,18 +4799,6 @@ normal;border:none;mso-border-alt:solid windowtext .5pt;padding:0cm;mso-padding-
 1.0pt 4.0pt 1.0pt 4.0pt'><span style='font-size:14.0pt;font-family:"Arial","sans-serif"'>forma
 mais concreta. O processo de construção continua recursivamente até que a
 descrição da interface do usuário seja totalmente concreta.<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;border:none;mso-border-alt:solid windowtext .5pt;padding:0cm;mso-padding-alt:
-1.0pt 4.0pt 1.0pt 4.0pt'><span style='font-size:14.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;border:none;mso-border-alt:solid windowtext .5pt;padding:0cm;mso-padding-alt:
-1.0pt 4.0pt 1.0pt 4.0pt'><span style='font-size:14.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;border:none;mso-border-alt:solid windowtext .5pt;padding:0cm;mso-padding-alt:
-1.0pt 4.0pt 1.0pt 4.0pt'><span style='font-size:14.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
 normal;border:none;mso-border-alt:solid windowtext .5pt;padding:0cm;mso-padding-alt:
@@ -5762,8 +4925,8 @@ mso-border-alt:solid windowtext .5pt;padding:1.0pt 4.0pt 1.0pt 4.0pt'>
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
 normal;border:none;mso-border-alt:solid windowtext .5pt;padding:0cm;mso-padding-alt:
 1.0pt 4.0pt 1.0pt 4.0pt'><!--[if gte vml 1]><v:shape id="Imagem_x0020_15"
- o:spid="_x0000_s1035" type="#_x0000_t75" style='position:absolute;
- margin-left:1.5pt;margin-top:1.35pt;width:246.8pt;height:143.3pt;z-index:-5;
+ o:spid="_x0000_s1034" type="#_x0000_t75" style='position:absolute;
+ margin-left:1.5pt;margin-top:1.35pt;width:246.8pt;height:143.3pt;z-index:-2;
  visibility:visible;mso-wrap-style:square;mso-wrap-distance-left:9pt;
  mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;
  mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;
@@ -5771,10 +4934,10 @@ normal;border:none;mso-border-alt:solid windowtext .5pt;padding:0cm;mso-padding-
  mso-position-vertical-relative:text' wrapcoords="-131 -226 -131 21932 21793 21932 21793 -226 -131 -226"
  stroked="t" strokecolor="windowText">
  <v:stroke opacity="64764f"/>
- <v:imagedata src="index_arquivos/image045.png" o:title=""/>
+ <v:imagedata src="index_arquivos/image041.png" o:title=""/>
  <w:wrap type="tight"/>
 </v:shape><![endif]--><![if !vml]><img width=331 height=193
-src="index_arquivos/image083.gif" align=left hspace=12 v:shapes="Imagem_x0020_15"><![endif]><span
+src="index_arquivos/image064.gif" align=left hspace=12 v:shapes="Imagem_x0020_15"><![endif]><span
 style='font-size:14.0pt;font-family:"Arial","sans-serif"'>Nesta Classe
 ResponderPerguntas herda da<span style='mso-spacerun:yes'>  </span>Classe
 StatelessWidget que é um widget que não requer estado mutável, que descreve
@@ -5783,18 +4946,6 @@ que descrevem a interface do usuário de forma mais concreta. O processo de
 construção continua recursivamente até que a descrição da interface do usuário
 seja totalmente concreta (por exemplo, consiste inteiramente em
 RenderObjectWidgets, que descreve RenderObjects concretos ).<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;border:none;mso-border-alt:solid windowtext .5pt;padding:0cm;mso-padding-alt:
-1.0pt 4.0pt 1.0pt 4.0pt'><span style='font-size:14.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;border:none;mso-border-alt:solid windowtext .5pt;padding:0cm;mso-padding-alt:
-1.0pt 4.0pt 1.0pt 4.0pt'><span style='font-size:14.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;border:none;mso-border-alt:solid windowtext .5pt;padding:0cm;mso-padding-alt:
-1.0pt 4.0pt 1.0pt 4.0pt'><span style='font-size:14.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
 normal;border:none;mso-border-alt:solid windowtext .5pt;padding:0cm;mso-padding-alt:
@@ -5930,25 +5081,67 @@ color:black;mso-fareast-language:PT-BR'>(<br>
 }<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
-background:white'><span style='font-size:14.0pt;font-family:Consolas;
-mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Courier New";
-color:black;mso-fareast-language:PT-BR'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
-background:white'><span style='font-size:14.0pt;font-family:Consolas;
-mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Courier New";
-color:black;mso-fareast-language:PT-BR'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
-background:white'><span style='font-size:14.0pt;font-family:Consolas;
-mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Courier New";
-color:black;mso-fareast-language:PT-BR'><o:p>&nbsp;</o:p></span></p>
+normal'><span style='font-size:14.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
 normal'><span style='font-size:14.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+normal'><span style='font-size:14.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+normal'><span style='font-size:14.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+text-align:center;line-height:normal'><span style='font-size:20.0pt;font-family:
+"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+text-align:center;line-height:normal'><span style='font-size:20.0pt;font-family:
+"Arial","sans-serif";mso-fareast-language:PT-BR;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
+ id="Imagem_x0020_5" o:spid="_x0000_i1026" type="#_x0000_t75" style='width:997.5pt;
+ height:276.75pt;visibility:visible;mso-wrap-style:square'>
+ <v:imagedata src="index_arquivos/image001.png" o:title=""/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=1330 height=369
+src="index_arquivos/image067.jpg" v:shapes="Imagem_x0020_5"><![endif]></span><span
+style='font-size:20.0pt;font-family:"Arial","sans-serif"'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+text-align:center;line-height:normal'><span style='font-size:20.0pt;font-family:
+"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+text-align:center;line-height:normal'><span style='font-size:20.0pt;font-family:
+"Arial","sans-serif"'>Apresentação do Projeto<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+normal'><span style='font-size:20.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+text-align:center;line-height:normal'><span style='font-size:20.0pt;font-family:
+"Arial","sans-serif";mso-fareast-language:PT-BR;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
+ id="Imagem_x0020_6" o:spid="_x0000_i1025" type="#_x0000_t75" alt="Princial_sequencia"
+ style='width:10in;height:540pt;visibility:visible;mso-wrap-style:square'>
+ <v:imagedata src="index_arquivos/image003.gif" o:title="Princial_sequencia"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=960 height=720
+src="index_arquivos/image003.gif" alt="Princial_sequencia" v:shapes="Imagem_x0020_6"><![endif]></span><span
+style='font-size:20.0pt;font-family:"Arial","sans-serif"'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+text-align:center;line-height:normal'><span style='font-size:20.0pt;font-family:
+"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+text-align:center;line-height:normal'><span style='font-size:20.0pt;font-family:
+"Arial","sans-serif"'>Link: <a
+href="https://github.com/neitoncarvalho/flutter_neiton">https://github.com/neitoncarvalho/flutter_neiton</a><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+text-align:center;line-height:normal'><span style='font-size:20.0pt;font-family:
+"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+normal'><span style='font-size:20.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
 normal'><span style='font-size:20.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
